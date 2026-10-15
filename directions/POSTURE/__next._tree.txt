@@ -1,0 +1,10 @@
+:HL["/nolaa-preview/_next/static/chunks/3p7xldrr1h3b7.css","style"]
+:HL["/nolaa-preview/_next/static/media/golos_text_cyrillic_wght_normal.p.3hv5e6a_c0lmc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/nolaa-preview/_next/static/media/golos_text_latin_wght_normal.p.0hbkaj79v86la.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/nolaa-preview/_next/static/media/nunito_cyrillic_wght_normal.p.3fope3hsfcjah.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/nolaa-preview/_next/static/media/nunito_latin_wght_normal.p.1wzrasd95pxo_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":{"n":"code","t":"d","k":"POSTURE","s":[]},"h":96,"c":"$Q4"}]]
+2:[["children",{"s":"directions","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"(flow)","h":96,"c":"$Q2"}]]
+0:{"b":"vPou8UiYbGtCA_sT_cWWj","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
